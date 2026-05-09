@@ -1,0 +1,14 @@
+# Python
+apps/api/.venv/
+__pycache__/
+*.pyc
+
+# Node / Next
+apps/web/node_modules/
+apps/web/.next/
+apps/web/out/
+
+# Env + uploads
+.env
+data/
+.DS_Store
